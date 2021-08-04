@@ -1,0 +1,3 @@
+[submodule "CornerstonesStartup"]
+	path = CornerstonesStartup
+	url = https://github.com/CornerstonesQC/CornerstonesStartup.git
